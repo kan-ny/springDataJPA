@@ -1,0 +1,6 @@
+net/javaguides/springboot/entity/Product.class
+net/javaguides/springboot/controller/ProductController.class
+net/javaguides/springboot/service/impl/ProductServiceImpl.class
+net/javaguides/springboot/service/ProductService.class
+net/javaguides/springboot/repository/ProductRepository.class
+net/javaguides/springboot/SpringbootSearchRestApiApplication.class
