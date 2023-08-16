@@ -17,7 +17,6 @@ import java.time.LocalDateTime;
 @Entity
 @Table(name = "product")
 public class Product {
-
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
@@ -26,6 +25,7 @@ public class Product {
     private String description;
     private boolean active;
     private String url;
+//    private String temp;
     @CreationTimestamp
     private LocalDateTime dateCreated;
     @UpdateTimestamp
